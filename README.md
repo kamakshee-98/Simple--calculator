@@ -1,1 +1,1 @@
-https://vercel.com/kamakshees-projects/simple-calculator
+https://simple-calculator-lac-mu.vercel.app/
